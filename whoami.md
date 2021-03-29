@@ -1,3 +1,2 @@
-layout: page
-title: "Who am I?"
-permalink: /whoami/
+Hello, I am Raffaele Sorrentino and my starter is Charmander.
+<img src="/images/charmander.jpg" alt="Charmander image" width="480" height="320">
