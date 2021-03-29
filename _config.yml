@@ -11,3 +11,6 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+site:
+  github:
+    is_project_page: false
