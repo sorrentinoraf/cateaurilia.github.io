@@ -1,3 +1,17 @@
 theme: jekyll-theme-cayman
 title: Raffaele Sorrentino
 description: Hello world! I'm Raffaele, 23M, based in Naples (Italy), and this is my personal portfolio!
+
+lsi: false
+safe: true
+source: sorrentinoraf.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+site:
+  github:
+    is_project_page: false
