@@ -1,16 +1,3 @@
 theme: jekyll-theme-cayman
 name: Raffaele Sorrentino
 title: Raffaele Sorrentino
-lsi: false
-safe: true
-source: sorrentinoraf.github.io
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
-site:
-  github:
-    is_project_page: false
