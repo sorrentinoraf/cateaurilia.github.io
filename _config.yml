@@ -1,10 +1,9 @@
 theme: jekyll-theme-slate
-github:
-  is_project_page: false
 name: Raffaele Sorrentino
 title: Raffaele Sorrentino
 lsi: false
 safe: true
+source: sorrentinoraf.github.io
 incremental: false
 highlighter: rouge
 gist:
