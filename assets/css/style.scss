@@ -1,12 +1,12 @@
 ---
 ---
 
-@import "";
+@import "{{ site.theme }}";
 
 header {
-  display: none;
+  display: none !important;
 }
 
 footer {
-  display: none;
+  display: none !important;
 }
