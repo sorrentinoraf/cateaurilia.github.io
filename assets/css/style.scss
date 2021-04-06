@@ -39,3 +39,17 @@ img {
 .active:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
+
+.collapsible {
+  color: rgba(0,0,0,0.7);
+  background-color: rgba(0,0,0,0.08);
+  border-color: rgba(0,0,0,0.2);
+  width: 100%;
+}
+
+.collapsible:hover {
+  color: rgba(0,0,0,0.8);
+  text-decoration: none;
+  background-color: rgba(0,0,0,0.2);
+  border-color: rgba(0,0,0,0.3);
+}
