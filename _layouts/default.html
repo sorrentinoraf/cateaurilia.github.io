@@ -23,9 +23,17 @@
   </head>
   <body>
     <header class="page-header" role="banner">
-      <img src="/assets/images/myself.png" alt="My photo" width="256" height="256">
+      {% if page.homepage %}
+        <img src="/assets/images/myself.png" alt="My photo" width="256" height="256">
+      {% endif %}
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% if page.homepage %}
+        <a href="./whoami.html" class="btn">Who am I?</a>
+        <a href="./portfolio.html" class="btn">Portfolio</a>
+        <a href="./blog.html" class="btn">Blog</a>
+        <a href="./contactme.html" class="btn">Contact me</a>
+      {% endif %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
