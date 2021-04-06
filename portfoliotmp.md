@@ -3,12 +3,12 @@
   <p>Lorem ipsum dolor sit amet 3...</p>
 </div>
 
-<button type="button" class="collapsible">My second project</button>
+<p class="btn collapsible">My second project</p>
 <div class="content">
   <p>Lorem ipsum dolor sit amet 2...</p>
 </div>
 
-<button type="button" class="collapsible">My first project</button>
+<p class="btn collapsible">My first project</p>
 <div class="content">
   <p>Lorem ipsum dolor sit amet 1...</p>
 </div>
