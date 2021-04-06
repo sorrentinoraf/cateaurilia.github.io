@@ -34,14 +34,12 @@
       <div class="container">
         <div class="row">
           {% if page.homepage %}
-            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./whoami.html" class="btn">Who am I?</a></div>
-            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./portfolio.html" class="btn">Portfolio</a></div>
-            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./blog.html" class="btn">Blog</a></div>
-            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./contactme.html" class="btn">Contact me</a></div>
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./whoami.html" class="btn menu">Who am I?</a></div>
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./portfolio.html" class="btn menu">Portfolio</a></div>
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./blog.html" class="btn menu">Blog</a></div>
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./contactme.html" class="btn menu">Contact me</a></div>
           {% else %}
-            <div class="col-xs-12">
-              <a href="{{ base.url | prepend: site.url }}" class="btn">Homepage</a>
-            </div>
+            <div class="col-xs-12"><a href="{{ base.url | prepend: site.url }}" class="btn menu">Homepage</a></div>
           {% endif %}
         </div>
       </div>
