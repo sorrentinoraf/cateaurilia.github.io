@@ -1,5 +1,9 @@
-**How can you reach out?**
+---
+description: "How can you reach out?"
+---
 
-Send me an e-mail: [click here](mailto:raffaele.sorrentino.work@gmail.com) or raffaele.sorrentino.work (at) gmail.com
+<a href="mailto:raffaele.sorrentino.work@gmail.com" class="btn">Send me a mail</a>
+Or copy-paste my address: raffaele.sorrentino.work (at) gmail.com
 
-Contact me on LinkedIn: [click here](https://www.linkedin.com/in/raffaele-sorrentino/)
+<a href="https://www.linkedin.com/in/raffaele-sorrentino/" class="btn">Contact me on LinkedIn</a>
+Or copy-paste in your browser: https://www.linkedin.com/in/raffaele-sorrentino/
