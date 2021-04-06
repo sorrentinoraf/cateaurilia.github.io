@@ -1,5 +1,3 @@
-<script src="{{ base.url | prepend: site.url }}/assets/js/collapsible-items.js"></script>
-
 <button type="button" class="collapsible">My third project</button>
 <div class="content">
   <p>Lorem ipsum dolor sit amet 3...</p>
@@ -14,3 +12,5 @@
 <div class="content">
   <p>Lorem ipsum dolor sit amet 1...</p>
 </div>
+
+<script src="{{ base.url | prepend: site.url }}/assets/js/collapsible-items.js"></script>
