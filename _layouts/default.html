@@ -31,29 +31,20 @@
       {% endif %}
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-<div class="container">.container
-  <div class="row"><p>.row</p>
-    <div class="col-sm-6 col-md-3">.col-sm-6 col-md-3 Lorem</div>
-    <div class="col-sm-6 col-md-6">.col-sm-6 col-md-6 Lorem</div>
-    <div class="col-sm-6 col-md-3">.col-sm-6 col-md-3 Lorem</div>
-  </div>
-  <div class="row"><p>.row</p>
-    <div class="col-xs-12 col-sm-6 col-md-3">.col-xs-12 col-sm-6 col-md-3 Lorem</div>
-    <div class="col-xs-12 col-sm-6 col-md-6">.col-xs-12 col-sm-6 col-md-6 Lorem</div>
-    <div class="col-xs-12 col-sm-6 col-md-3">.col-xs-12 col-sm-6 col-md-3 Lorem</div>
-  </div>
-</div> <!-- / fixed-width container -->
-      {% if page.homepage %}
-        <a href="./whoami.html" class="btn menu">Who am I?</a>
-        <a href="./portfolio.html" class="btn menu">Portfolio</a>
-        <a href="./blog.html" class="btn menu">Blog</a>
-        <a href="./contactme.html" class="btn menu">Contact me</a>
-      {% else %}
-        <a href="./.." class="btn menu">Homepage</a>
-      {% endif %}
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
+      <div class="container">
+        <div class="row">
+          {% if page.homepage %}
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./whoami.html" class="btn">Who am I?</a></div>
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./portfolio.html" class="btn">Portfolio</a></div>
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./blog.html" class="btn">Blog</a></div>
+            <div class="col-xs-12 col-sm-6 col-md-3"><a href="./contactme.html" class="btn">Contact me</a></div>
+          {% else %}
+            <div class="col-xs-12">
+              <a href="{{ base.url | prepend: site.url }}" class="btn">Homepage</a>
+            </div>
+          {% endif %}
+        </div>
+      </div>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
