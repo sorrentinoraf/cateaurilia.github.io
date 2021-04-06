@@ -1,7 +1,5 @@
 <p class="btn collapsible">Software Developer Engineer & DevOps Ambassador</p>
 <div class="content">
-  <h4<p class="btn collapsible">Software Developer Engineer & DevOps Ambassador</p>
-<div class="content">
   <h4>NTT Data Italia, Naples, Italy | 09/2018 – current</h4>
   <p>Developed various applications using a wide-range of technologies, mainly plain Java, Java with Spring Boot, Angular 8, both SQL and NO-SQL databases, and Google Cloud Platform. Contributed in the creation of monolithic applications, RESTful web services and microservices. Worked for important clients in the following industries: insurance, government, automotive, telco, banking.</p>
   <p>Growth strong team working and communication skills, and learned how to manage his time in order to deliver a top quality final product in time.</p>
@@ -26,29 +24,6 @@
   <h4>Personal Project | 06/2017 – 08/2017</h4>
   <p>Created an Android game with Unity3D and C# scripting. Designed the 2D and 3D graphical assets. Implemented the analytics system and a Facebook-based leaderboard. The game was awarded with two articles on the local newspapers <a href="{{ base.url | prepend: site.url }}/external/articolo-napoli-today">NapoliToday</a> and <a href="{{ base.url | prepend: site.url }}/external/articolo-vesuvio-live">VesuvioLive</a>.</p>
   <p>The two articles have been re-hosted on this website to make sure they won't be lost. Original links are: <a href="https://goo.gl/4aQWzE">NapoliToday</a> and <a href="https://goo.gl/9VDzBa">VesuvioLive</a></p>
-</div>
-
-<script src="{{ base.url | prepend: site.url }}/assets/js/collapsible-items.js"></script>
->NTT Data Italia, Naples, Italy | 09/2018 – current</h4>
-  <p>TO DO 4</p>
-</div>
-
-<p class="btn collapsible">Android App Developer – VAT Receipt Lottery</p>
-<div class="content">
-  <h4>Personal Project | 12/2020 – current</h4>
-  <p>TO DO 3</p>
-</div>
-
-<p class="btn collapsible">iOS & PHP Developer – Internship</p>
-<div class="content">
-  <h4>T&C Group, Naples, Italy | 03/2018 – 06/2018</h4>
-  <p>TO DO 2</p>
-</div>
-
-<p class="btn collapsible">Android Game Developer – Vertical Space Shooter</p>
-<div class="content">
-  <h4>Personal Project | 06/2017 – 08/2017</h4>
-  <p>TO DO 1</p>
 </div>
 
 <script src="{{ base.url | prepend: site.url }}/assets/js/collapsible-items.js"></script>
