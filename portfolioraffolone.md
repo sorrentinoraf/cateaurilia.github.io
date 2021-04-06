@@ -29,7 +29,7 @@ Increased the company’s quality standard by setting up a company-wide SonarQub
 <p class="btn collapsible">Android Game Developer – Vertical Space Shooter</p>
 <div class="content">
   <h5>Personal Project | 06/2017 – 08/2017</h5>
-  Created an Android game with Unity3D and C# scripting. Designed the 2D and 3D graphical assets. Implemented the analytics system and a Facebook-based leaderboard. The game was awarded with two articles on the local newspapers <a href="https://goo.gl/4aQWzE">NapoliToday</a> and <a href="https://goo.gl/9VDzBa">VesuvioLive</a>.
+  Created an Android game with Unity3D and C# scripting. Designed the 2D and 3D graphical assets. Implemented the analytics system and a Facebook-based leaderboard. The game was awarded with two articles on the local newspapers <a href="{{ base.url | prepend: site.url }}/external/articolo-napoli-today">NapoliToday</a> and <a href="{{ base.url | prepend: site.url }}/external/articolo-vesuvio-live">VesuvioLive</a>.
 </div>
 
 <script src="{{ base.url | prepend: site.url }}/assets/js/collapsible-items.js"></script>
