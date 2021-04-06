@@ -12,3 +12,5 @@
 <div class="content">
   <p>Lorem ipsum dolor sit amet 1...</p>
 </div>
+
+<script src="{{ base.url | prepend: site.url }}/assets/js/collapsible-item.js"></script>
