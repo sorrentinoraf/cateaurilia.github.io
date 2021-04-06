@@ -25,6 +25,7 @@ img {
   background-color: white;
   max-height: 0;
   overflow: hidden;
+  margin-bottom: 1em
   transition: max-height 0.2s ease-out;
 }
 
@@ -45,6 +46,7 @@ img {
   background-color: rgba(0,0,0,0.05);
   border-color: rgba(0,0,0,0.2);
   width: 100%;
+  margin-bottom: 0 !important
 }
 
 .collapsible:hover {
