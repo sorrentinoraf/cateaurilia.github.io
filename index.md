@@ -1,3 +1,7 @@
+---
+homepage: true
+---
+
 [Who am I?](./whoami.html)
 
 [Portfolio](./portfolio.html)
