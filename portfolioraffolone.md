@@ -1,16 +1,12 @@
----
-layout: default
----
-
 <p class="btn collapsible">Software Developer Engineer & DevOps Ambassador</p>
 <div class="content">
   <h5>NTT Data Italia, Naples, Italy | 09/2018 – current</h5>
   Developed various applications using a wide-range of technologies, mainly plain Java, Java with Spring Boot, Angular 8, both SQL and NO-SQL databases, and Google Cloud Platform. Contributed in the creation of monolithic applications, RESTful web services and microservices. Worked for important clients in the following industries: insurance, government, automotive, telco, banking.
-    
+    <br>
 Growth strong team working and communication skills, and learned how to manage his time in order to deliver a top quality final product in time.
-
+    <br>
 Continuously studying about modern DevOps technologies, explaining them to other colleagues during workshops as well as implementing them in the company’s infrastructure.
-
+    <br>
 Increased the company’s quality standard by setting up a company-wide SonarQube service, integrated it with existing GitLab and Jenkins services and built a full CI/CD pipeline for some clients, with Git hooks, automated testing and code quality gates.
 </div>
 
@@ -30,7 +26,7 @@ Increased the company’s quality standard by setting up a company-wide SonarQub
 <div class="content">
   <h5>Personal Project | 06/2017 – 08/2017</h5>
   Created an Android game with Unity3D and C# scripting. Designed the 2D and 3D graphical assets. Implemented the analytics system and a Facebook-based leaderboard. The game was awarded with two articles on the local newspapers <a href="{{ base.url | prepend: site.url }}/external/articolo-napoli-today">NapoliToday</a> and <a href="{{ base.url | prepend: site.url }}/external/articolo-vesuvio-live">VesuvioLive</a>.
-  
+  <br>
   The two articles have been re-hosted on this website to make sure they won't be lost. Original links are: <a href="https://goo.gl/4aQWzE">NapoliToday</a> and <a href="https://goo.gl/9VDzBa">VesuvioLive</a>
 </div>
 
