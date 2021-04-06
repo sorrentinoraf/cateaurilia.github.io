@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <p class="btn collapsible">Software Developer Engineer & DevOps Ambassador</p>
 <div class="content">
   <h5>NTT Data Italia, Naples, Italy | 09/2018 – current</h5>
@@ -25,7 +29,7 @@ Increased the company’s quality standard by setting up a company-wide SonarQub
 <p class="btn collapsible">Android Game Developer – Vertical Space Shooter</p>
 <div class="content">
   <h5>Personal Project | 06/2017 – 08/2017</h5>
-  Created an Android game with Unity3D and C# scripting. Designed the 2D and 3D graphical assets. Implemented the analytics system and a Facebook-based leaderboard. The game was awarded with two articles on the local newspapers [NapoliToday](https://goo.gl/4aQWzE) and [VesuvioLive](https://goo.gl/9VDzBa).
+  Created an Android game with Unity3D and C# scripting. Designed the 2D and 3D graphical assets. Implemented the analytics system and a Facebook-based leaderboard. The game was awarded with two articles on the local newspapers <a href="https://goo.gl/4aQWzE">NapoliToday</a> and <a href="https://goo.gl/9VDzBa">VesuvioLive</a>.
 </div>
 
 <script src="{{ base.url | prepend: site.url }}/assets/js/collapsible-items.js"></script>
