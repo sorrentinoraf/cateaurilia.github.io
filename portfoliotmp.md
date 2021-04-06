@@ -1,4 +1,4 @@
-<button type="button" class="collapsible">My third project</button>
+<p class="btn collapsible">My third project</p>
 <div class="content">
   <p>Lorem ipsum dolor sit amet 3...</p>
 </div>
