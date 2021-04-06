@@ -41,15 +41,14 @@ img {
 }
 
 .collapsible {
-  color: rgba(0,0,0,0.7);
-  background-color: rgba(0,0,0,0.08);
+  background-color: rgba(0,0,0,0.05);
   border-color: rgba(0,0,0,0.2);
   width: 100%;
 }
 
 .collapsible:hover {
-  color: rgba(0,0,0,0.8);
+  color: #606c71 !important;
   text-decoration: none;
-  background-color: rgba(0,0,0,0.2);
-  border-color: rgba(0,0,0,0.3);
+  background-color: rgba(0,0,0,0.15);
+  border-color: rgba(0,0,0,0.2);
 }
