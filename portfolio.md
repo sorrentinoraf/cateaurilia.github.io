@@ -4,7 +4,7 @@ description: "My portfolio"
 
 <p class="btn collapsible">Software Developer Engineer & DevOps Ambassador</p>
 <div class="content">
-  <div class="container"><div class="row">
+  <div class="header container"><div class="row">
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4>NTT Data Italia, Naples, Italy</h4></div>
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4><span>Since: 09/2018</span>   <span>Until: current</span></h4></div>
   </div></div>
@@ -16,7 +16,7 @@ description: "My portfolio"
 
 <p class="btn collapsible">Android App Developer – VAT Receipt Lottery</p>
 <div class="content">
-  <div class="container"><div class="row">
+  <div class="header container"><div class="row">
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4>Personal Project</h4></div>
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4><span>Since: 12/2020</span>   <span>Until: current</span></h4></div>
   </div></div>
@@ -25,7 +25,7 @@ description: "My portfolio"
 
 <p class="btn collapsible">iOS & PHP Developer – Internship</p>
 <div class="content">
-  <div class="container"><div class="row">
+  <div class="header container"><div class="row">
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4>T&C Group, Naples, Italy</h4></div>
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4><span>Since: 03/2018</span>   <span>Until: 06/2018</span></h4></div>
   </div></div>
@@ -34,7 +34,7 @@ description: "My portfolio"
 
 <p class="btn collapsible">Android Game Developer – Vertical Space Shooter</p>
 <div class="content">
-  <div class="container"><div class="row">
+  <div class="header container"><div class="row">
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4>Personal Project</h4></div>
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4><span>Since: 06/2017</span>   <span>Until: 08/2017</span></h4></div>
   </div></div>
