@@ -20,8 +20,6 @@ And I apply these principles to my private life as well! I built a fully automat
 
 My love for software engineering started when I was 8 years old. I wanted to play a videogame on my personal computer, but the CPU was not powerful enough, so I decided that re-creating that game was the best option, and did so. 🤔
 
-<hr class="solid">
-
 My hobbies: fantasy books and comics, travelling, memes, videogames, chess.
 
 My starter Pokémon is Charmander. 🔥
