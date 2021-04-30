@@ -4,7 +4,7 @@ description: "Who am I?"
 
 Hi there!
 
-I am Raffaele Sorrentino, born in 1997. I'm currently based in Naples, Italy 🇮🇹
+I am Raffaele Sorrentino, born in 1997. I'm currently based in Naples, Italy.
 
 <br>
 
