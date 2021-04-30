@@ -27,7 +27,7 @@
   <body>
     <header class="page-header" role="banner">
       {% if page.homepage %}
-        <img src="/assets/images/myself.png" alt="My photo" width="256" height="256">
+        <img src="/assets/images/myself.png" alt="My photo" width="256" height="256"><br>
       {% endif %}
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
