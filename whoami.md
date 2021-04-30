@@ -22,7 +22,7 @@ My love for software engineering started when I was 8 years old. I wanted to pla
 
 <br>
 
-My hobbies: fantasy books and comics, travelling, videogames, chess.
+My hobbies: fantasy books and comics, travelling, memes, videogames, chess.
 
 My starter Pokémon is Charmander 🔥
 
