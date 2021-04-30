@@ -2,17 +2,17 @@
 description: "Who am I?"
 ---
 
-Hi there! 👋
+Hi there!
 
-I am Raffaele Sorrentino, born in 1997. I'm currently based in Naples, Italy.
+I am Raffaele Sorrentino, born in 1997. I'm currently based in Naples, Italy 🇮🇹
 
 <br>
 
 I'm a Software Engineer with a strong passion for simplicity, automation and efficiency.
 
-I hate it when I have to do boring things over and over again, and I always try to automate things to make the entire process more efficient.
+I hate to do boring things over and over again, and I always try to automate things to make the entire process more efficient.
 
-I'm a big fan of DevOps culture, continuous testing and integration, automated pipeline and deployments and things like that.
+I'm a big fan of DevOps culture, continuous testing and integration, automated pipeline and deployments and things like that. 🤖
 
 And I apply these principles to my private life as well! I built a fully automated backup system for my personal computer as well as an automated expense tracking system.
 
@@ -28,6 +28,6 @@ My starter Pokémon is Charmander 🔥
 
 <br>
 
-Interested in working together?
+Interested in working together? 💼
 
 Feel free to <a href="../contactme.html">contact me</a> for any project or collaboration.
