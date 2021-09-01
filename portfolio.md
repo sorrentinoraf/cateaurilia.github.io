@@ -2,11 +2,20 @@
 description: "My portfolio"
 ---
 
+<p class="btn collapsible">Software Engineer</p>
+<div class="content">
+  <div class="header container"><div class="row">
+    <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4>Bending Spoons, Milan, Italy</h4></div>
+    <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4><span>Since: 09/2021</span>   <span>Until: current</span></h4></div>
+  </div></div>
+  <p>Working in the Android Software Engineering team! This section will be updated later on...</p>
+</div>
+
 <p class="btn collapsible">Software Developer Engineer & DevOps Ambassador</p>
 <div class="content">
   <div class="header container"><div class="row">
     <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4>NTT Data Italia, Naples, Italy</h4></div>
-    <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4><span>Since: 09/2018</span>   <span>Until: current</span></h4></div>
+    <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-6 col-xl-6"><h4><span>Since: 09/2018</span>   <span>Until: 08/2021</span></h4></div>
   </div></div>
   <p>Developed various applications using a wide-range of technologies, mainly plain Java, Java with Spring Boot, Angular 8, both SQL and NO-SQL databases, and Google Cloud Platform. Contributed in the creation of monolithic applications, RESTful web services and microservices. Worked for important clients in the following industries: insurance, government, automotive, telco, banking.</p>
   <p>Growth strong team working and communication skills, and learned how to manage his time in order to deliver a top quality final product in time.</p>
